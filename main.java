@@ -4,5 +4,6 @@ public class addTwo{
         int a=10;
         int b=15;
         System.out.println("the total is"+ a+b);
+        System.out.println("Iniya");
     }
 }
